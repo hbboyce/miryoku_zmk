@@ -37,7 +37,7 @@ U_LT(U_BUTTON, Z), U_MT(RALT, X),     &kp C,             &kp D,             &kp 
 U_NP,              U_NP,              U_LT(U_FUN, DEL),  U_LT(U_NUM, BSPC), U_LT(U_SYM, RET),  U_LT(U_MOUSE, TAB),U_LT(U_NAV, SPACE),U_LT(U_MEDIA, ESC),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_DSEND_FLIP \
-&kp X,             &kp C,             &kp L,             &kp F,             &kp V,             &kp SLASH,         &kp SEMI,          &kp U,             &kp P,             &kp Q,             \
+&kp X,             &kp C,             &kp L,             &kp F,             &kp V,             &kp SLASH,         &kp SQT,           &kp U,             &kp P,             &kp Q,             \
 U_MT(LGUI, R),     U_MT(LALT, S),     U_MT(LCTRL, N),    U_MT(LSHFT, T),    &kp G,             &kp COMMA,         U_MT(LSHFT, A),    U_MT(LCTRL, E),    U_MT(LALT, H),     U_MT(LGUI, I),     \
 U_LT(U_BUTTON, Z), U_MT(RALT, W),     &kp M,             &kp D,             &kp B,             &kp DOT,           &kp O,             &kp Y,             U_MT(RALT, K),     U_LT(U_BUTTON, J), \
 U_NP,              U_NP,              U_LT(U_FUN, DEL),  U_LT(U_NUM, BSPC), U_LT(U_SYM, RET),  U_LT(U_MOUSE, TAB),U_LT(U_NAV, SPACE),U_LT(U_MEDIA, ESC),U_NP,              U_NP
@@ -103,7 +103,7 @@ U_LT(U_BUTTON, Z), U_MT(RALT, X),     &kp C,             &kp D,             &kp 
 U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, SPACE),U_LT(U_MOUSE, TAB),U_LT(U_SYM, RET),  U_LT(U_NUM, BSPC), U_LT(U_FUN, DEL),  U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_DSEND \
-&kp X,             &kp C,             &kp L,             &kp F,             &kp V,             &kp SLASH,         &kp SEMI,          &kp U,             &kp P,             &kp Q,             \
+&kp X,             &kp C,             &kp L,             &kp F,             &kp V,             &kp SLASH,         &kp SQT,           &kp U,             &kp P,             &kp Q,             \
 U_MT(LGUI, R),     U_MT(LALT, S),     U_MT(LCTRL, N),    U_MT(LSHFT, T),    &kp G,             &kp COMMA,         U_MT(LSHFT, A),    U_MT(LCTRL, E),    U_MT(LALT, H),     U_MT(LGUI, I),     \
 U_LT(U_BUTTON, Z), U_MT(RALT, W),     &kp M,             &kp D,             &kp B,             &kp DOT,           &kp O,             &kp Y,             U_MT(RALT, K),     U_LT(U_BUTTON, J), \
 U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, SPACE),U_LT(U_MOUSE, TAB),U_LT(U_SYM, RET),  U_LT(U_NUM, BSPC), U_LT(U_FUN, DEL),  U_NP,              U_NP
@@ -230,7 +230,7 @@ U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp 
 U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp TAB,           &kp RET,           &kp BSPC,          &kp DEL,           U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_TAP_DSEND \
-&kp X,             &kp C,             &kp L,             &kp F,             &kp V,             &kp SLASH,         &kp SEMI,          &kp U,             &kp P,             &kp Q,             \
+&kp X,             &kp C,             &kp L,             &kp F,             &kp V,             &kp SLASH,         &kp SQT,           &kp U,             &kp P,             &kp Q,             \
 &kp R,             &kp S,             &kp N,             &kp T,             &kp G,             &kp COMMA,         &kp A,             &kp E,             &kp H,             &kp I,             \
 &kp Z,             &kp W,             &kp M,             &kp D,             &kp B,             &kp DOT,           &kp O,             &kp Y,             &kp K,             &kp J,             \
 U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp TAB,           &kp RET,           &kp BSPC,          &kp DEL,           U_NP,              U_NP
