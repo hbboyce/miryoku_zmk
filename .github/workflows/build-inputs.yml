@@ -23,6 +23,7 @@ on:
         - "BEAKL15"
         - "Colemak"
         - "ColemakDHK"
+        - "DSEND"
         - "Dvorak"
         - "Halmak"
         - "QWERTY"
